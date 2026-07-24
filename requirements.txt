@@ -1,0 +1,5 @@
+faster-whisper>=1.0
+pillow>=10.0
+google-auth
+google-auth-oauthlib
+google-api-python-client

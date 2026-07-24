@@ -1,0 +1,24 @@
+# secrets — 절대 커밋 금지
+config/client_secret.json
+config/yt_token.json
+config/style.json
+
+# personal assets (본인 것만 로컬에)
+assets/footer*.png
+retention/
+*_token.json
+.env
+
+# outputs
+*.mp4
+*.mov
+*.srt
+edit/
+guide_qc/
+transcripts/
+
+# python / os
+__pycache__/
+.venv/
+venv/
+.DS_Store
